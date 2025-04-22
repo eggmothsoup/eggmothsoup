@@ -1,6 +1,6 @@
-literally no idea what Im doing but Ill figure it out I think probably
+kinda just want to learn what git is and how to navigate this site more than anything. literally no idea what Im doing but Ill figure it out I think probably.
 
-Im working on <a href=https://eggmothsoup.neocities.org>this neocities site</a>. it's bad
+Im working on <a href=https://eggmothsoup.neocities.org>this neocities site</a> to practice coding. it's bad.
 
 <!--
 **eggmothsoup/eggmothsoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
