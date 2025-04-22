@@ -1,4 +1,6 @@
-## Hi there 👋
+literally no idea what Im doing but Ill figure it out I think probably
+
+Im working on <a href=https://eggmothsoup.neocities.org>this neocities site</a>. it's bad
 
 <!--
 **eggmothsoup/eggmothsoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
